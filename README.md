@@ -28,21 +28,6 @@ Dependency Injection: Hilt (Optional - remove if not used)
 
 Asynchronous: Kotlin Coroutines & Flow
 
-📸 Screenshots
-
-<!-- Add your screenshots here -->
-
-Home Screen
-
-Add Item
-
-Edit Item
-
-<img src="path/to/screenshot1.png" width="200"/>
-
-<img src="path/to/screenshot2.png" width="200"/>
-
-<img src="path/to/screenshot3.png" width="200"/>
 
 🚀 Getting Started
 
